@@ -1,0 +1,21 @@
+
+
+*{
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.btn{
+ background-image:linear-gradient(to right ,#FC9B26,#fc266d) !important;
+  color: whitesmoke !important;
+  transition: 1s ease-in-out;
+ 
+}
+.btn:hover{
+  background-image:linear-gradient(to right ,#fc266d,#0081CB) !important;
+}
+
+
